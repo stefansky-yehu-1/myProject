@@ -1,0 +1,12 @@
+C:\Users\admin\Desktop\myProject\algoritmim\bin\Debug\netcoreapp3.1\algoritmim.deps.json
+C:\Users\admin\Desktop\myProject\algoritmim\bin\Debug\netcoreapp3.1\algoritmim.dll
+C:\Users\admin\Desktop\myProject\algoritmim\bin\Debug\netcoreapp3.1\algoritmim.pdb
+C:\Users\admin\Desktop\myProject\algoritmim\bin\Debug\netcoreapp3.1\ReadAndWriteData.dll
+C:\Users\admin\Desktop\myProject\algoritmim\bin\Debug\netcoreapp3.1\ReadAndWriteData.pdb
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.AssemblyInfo.cs
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.csproj.CopyComplete
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.dll
+C:\Users\admin\Desktop\myProject\algoritmim\obj\Debug\netcoreapp3.1\algoritmim.pdb

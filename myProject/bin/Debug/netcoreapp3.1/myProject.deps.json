@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "myProject/1.0.0": {
+        "dependencies": {
+          "ReadAndWriteData": "1.0.0",
+          "algoritmim": "1.0.0"
+        },
+        "runtime": {
+          "myProject.dll": {}
+        }
+      },
+      "algoritmim/1.0.0": {
+        "dependencies": {
+          "ReadAndWriteData": "1.0.0"
+        },
+        "runtime": {
+          "algoritmim.dll": {}
+        }
+      },
+      "ReadAndWriteData/1.0.0": {
+        "runtime": {
+          "ReadAndWriteData.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "myProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "algoritmim/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReadAndWriteData/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

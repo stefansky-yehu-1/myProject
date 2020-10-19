@@ -14,7 +14,8 @@ namespace myProject
             Console.WriteLine(c2.func2(3, 5));
 
             Console.WriteLine(c1.func1(1, 4));
-            Console.WriteLine("HI");
+            Console.WriteLine("Hello!");
+         
           
          
         }
